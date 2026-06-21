@@ -46,16 +46,16 @@ FBref Data
 
 ### Seasonal Goal and xG Comparison
 
-![Dashboard 1](Football-Efficiency-Analysis/Dashboards/LeagueTrend.png)
+![Dashboard 1](LeagueTrend.png)
 
 ### Goals vs Expected Goals
 
-![Dashboard 2](Dashboards/PL-GoalsxG.png)
+![Dashboard 2](PL-GoalsxG.png)
 
 ### Home vs Away Efficiency
 
-![Dashboard 3](Dashboards/PL-Venuw.png)
+![Dashboard 3](PL-Venuw.png)
 
 ### Seasonal Efficiency Trends
 
-![Dashboard 4](Dashboards/PL-Efficiency.png)
+![Dashboard 4](PL-Efficiency.png)
