@@ -40,3 +40,22 @@ FBref Data
 - Tableau dashboard screenshots
 - Research article
 - Technical documentation
+
+
+## Dashboard Examples
+
+### Seasonal Goal and xG Comparison
+
+![Dashboard 1](Dashboards/LeagueTrend.png)
+
+### Goals vs Expected Goals
+
+![Dashboard 2](Dashboards/PL-GoalsxG.png)
+
+### Home vs Away Efficiency
+
+![Dashboard 3](Dashboards/PL-Venuw.png)
+
+### Seasonal Efficiency Trends
+
+![Dashboard 4](Dashboards/PL-Efficiency.png)
