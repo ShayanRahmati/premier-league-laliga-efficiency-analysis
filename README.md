@@ -54,7 +54,7 @@ FBref Data
 
 ### Home vs Away Efficiency
 
-![Dashboard 3](PL-Venuw.png)
+![Dashboard 3](PL-Venue.png)
 
 ### Seasonal Efficiency Trends
 
