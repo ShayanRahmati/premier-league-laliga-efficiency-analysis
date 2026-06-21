@@ -37,7 +37,7 @@ FBref Data
 
 - Python preprocessing code
 - Final dataset
-- Tableau dashboard screenshots
+- Tableau dashboard
 - Research article
 - Technical documentation
 
