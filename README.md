@@ -46,7 +46,7 @@ FBref Data
 
 ### Seasonal Goal and xG Comparison
 
-![Dashboard 1](Dashboards/LeagueTrend.png)
+![Dashboard 1](Football-Efficiency-Analysis/Dashboards/LeagueTrend.png)
 
 ### Goals vs Expected Goals
 
